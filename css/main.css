@@ -101,7 +101,7 @@ a, a:focus, a:hover {
 h1, h2, h3,
 h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
-  color: #222222;
+  color: #980000;
   line-height: 1.2em !important;
   margin-bottom: 0;
   margin-top: 0;
@@ -623,7 +623,7 @@ td, th {
   .section-title h1 {
     margin-bottom: 20px;
     font-size: 42px;
-    color: #000; }
+    color: #980000; }
     @media (max-width: 991px) {
       .section-title h1 {
         font-size: 35px; } }
@@ -1882,7 +1882,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .about-right h1 {
   margin-bottom: 30px;
-  color: #000; }
+  color: #980000; }
   @media (max-width: 991px) {
     .about-right h1 {
       font-size: 35px;
@@ -2763,9 +2763,9 @@ body.mobile-nav-active #mobile-nav-toggle {
       -moz-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s;
-      color: #777777; }
+      color: #fff; }
       .footer-area .single-footer-widget ul li a:hover {
-        color: #fff; }
+        color: #FFC7B8; }
   .footer-area .single-footer-widget .form-wrap {
     margin-top: 25px; }
   .footer-area .single-footer-widget input {
@@ -2799,7 +2799,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       color: #fff; }
     .footer-area .footer-bottom a,
     .footer-area .footer-bottom span {
-      color: #39cfca; }
+      color: #FFC7B8; }
     .footer-area .footer-bottom span {
       font-weight: 700; }
     .footer-area .footer-bottom .footer-social {
@@ -2809,7 +2809,7 @@ body.mobile-nav-active #mobile-nav-toggle {
           text-align: left;
           margin-top: 30px; } }
       .footer-area .footer-bottom .footer-social a {
-        background: #3e4876;
+        background: #980000;
         margin-left: 5px;
         width: 40px;
         color: #fff;
